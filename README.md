@@ -1,1 +1,3 @@
 # navEdge
+
+This project aims to build a smart, cost-efficient ETA prediction system for daily commutes (Home to Office & back) using simulated travel data, open-source routing APIs like OpenRouteService (ORS), HERE, TOMTOM and machine learning models. By generating synthetic data for 50 users over 3 months and factoring in realistic traffic patterns based on time and day, the system predicts travel time with high accuracy—without relying on Google Maps. With features like distance, time of day, and traffic multipliers, models like Random Forest or XGBoost can be trained and deployed via a simple Flask or Streamlit app, offering scalable and budget-friendly real-world applicability.
